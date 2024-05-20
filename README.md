@@ -4,3 +4,9 @@ Our project focuses on identifying and categorizing toxic comments across variou
 
 ## Dataset used for the project: 
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+
+By:
+Siva Swaroop Vardhineedi - 016835312 
+Sri Charan Reddy Mallu - 017419779 
+Mahek Virani - 017446936
+Sohan Leburu - 017408768
